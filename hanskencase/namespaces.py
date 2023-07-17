@@ -5,15 +5,15 @@ from rdflib import Literal, Graph
 
 # import rdflib
 
-UCO_ACTION = Namespace("https://unifiedcyberontology.org/ontology/uco/action#")
-UCO_CORE = Namespace("https://unifiedcyberontology.org/ontology/uco/core#")
-UCO_IDENTITY = Namespace("https://unifiedcyberontology.org/ontology/uco/identity#")
-UCO_LOCATION = Namespace("https://unifiedcyberontology.org/ontology/uco/location#")
-UCO_OBSERVABLE = Namespace("https://unifiedcyberontology.org/ontology/uco/observable#")
-UCO_ROLE = Namespace("https://unifiedcyberontology.org/ontology/uco/role#")
-UCO_TOOL = Namespace("https://unifiedcyberontology.org/ontology/uco/tool#")
-UCO_TYPES = Namespace("https://unifiedcyberontology.org/ontology/uco/types#")
-UCO_VOCABULARY = Namespace("https://unifiedcyberontology.org/ontology/uco/vocabulary#")
+UCO_ACTION = Namespace("https://ontology.unifiedcyberontology.org/uco/action/")
+UCO_CORE = Namespace("https://ontology.unifiedcyberontology.org/uco/core/")
+UCO_IDENTITY = Namespace("https://ontology.unifiedcyberontology.org/uco/identity/")
+UCO_LOCATION = Namespace("https://ontology.unifiedcyberontology.org/uco/location/")
+UCO_OBSERVABLE = Namespace("https://ontology.unifiedcyberontology.org/uco/observable/")
+UCO_ROLE = Namespace("https://ontology.unifiedcyberontology.org/uco/role/")
+UCO_TOOL = Namespace("https://ontology.unifiedcyberontology.org/uco/tool/")
+UCO_TYPES = Namespace("https://ontology.unifiedcyberontology.org/uco/types/")
+UCO_VOCABULARY = Namespace("https://ontology.unifiedcyberontology.org/uco/vocabulary/")
 
 CASE_INVESTIGATION = Namespace("https://ontology.caseontology.org/case/investigation/")
 
